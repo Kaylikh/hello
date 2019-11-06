@@ -1,0 +1,24 @@
+[1mdiff --git a/dictionary b/dictionary[m
+[1mdeleted file mode 160000[m
+[1mindex 660c2e2..0000000[m
+[1m--- a/dictionary[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-Subproject commit 660c2e23f3f9d99f40671f55b8ffbf642b56d0ea[m
+[1mdiff --git a/hello.txt b/hello.txt[m
+[1mindex cd61462..9f990de 100644[m
+[1m--- a/hello.txt[m
+[1m+++ b/hello.txt[m
+[36m@@ -1 +1,2 @@[m
+[31m-kukukuku[m
+\ No newline at end of file[m
+[32m+[m[32mkukukuku[m
+[32m+[m[32mtyatyatya[m
+\ No newline at end of file[m
+[1mdiff --git a/rrr b/rrr[m
+[1mdeleted file mode 160000[m
+[1mindex 660c2e2..0000000[m
+[1m--- a/rrr[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-Subproject commit 660c2e23f3f9d99f40671f55b8ffbf642b56d0ea[m
